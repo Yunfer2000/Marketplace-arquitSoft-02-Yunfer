@@ -46,3 +46,7 @@ APP --> ENV["Módulo de Envíos"]
 
 PAG --> EXT1["Pasarela de pago"]
 ENV --> EXT2["Servicio de envío"]
+
+## Diagrama de arquitectura
+
+![Diagrama de arquitectura](./imagenes/diagrama-arquitectura.png)
